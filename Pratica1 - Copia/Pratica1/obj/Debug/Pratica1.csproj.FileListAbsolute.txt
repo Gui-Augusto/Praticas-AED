@@ -1,8 +1,0 @@
-H:\Praticas1\Pratica1\Pratica1\obj\Debug\Pratica1.csproj.AssemblyReference.cache
-H:\Praticas1\Pratica1\Pratica1\obj\Debug\Pratica1.csproj.SuggestedBindingRedirects.cache
-H:\Praticas1\Pratica1\Pratica1\obj\Debug\Pratica1.csproj.CoreCompileInputs.cache
-H:\Praticas1\Pratica1\Pratica1\bin\Debug\Pratica1.exe.config
-H:\Praticas1\Pratica1\Pratica1\bin\Debug\Pratica1.exe
-H:\Praticas1\Pratica1\Pratica1\bin\Debug\Pratica1.pdb
-H:\Praticas1\Pratica1\Pratica1\obj\Debug\Pratica1.exe
-H:\Praticas1\Pratica1\Pratica1\obj\Debug\Pratica1.pdb
