@@ -1,0 +1,16 @@
+H:\PRATICAS\pratica-4\pratica3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+H:\PRATICAS\pratica-4\pratica3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+H:\PRATICAS\pratica-4\pratica3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+H:\PRATICAS\pratica-4\pratica3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+H:\PRATICAS\pratica-4\pratica3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+H:\PRATICAS\pratica-4\pratica3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\PRATICAS\pratica-4\pratica3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+H:\PRATICAS\pratica-4\pratica3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+H:\PRATICAS\pratica3\pratica3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+H:\PRATICAS\pratica3\pratica3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+H:\PRATICAS\pratica3\pratica3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+H:\PRATICAS\pratica3\pratica3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+H:\PRATICAS\pratica3\pratica3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+H:\PRATICAS\pratica3\pratica3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\PRATICAS\pratica3\pratica3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+H:\PRATICAS\pratica3\pratica3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

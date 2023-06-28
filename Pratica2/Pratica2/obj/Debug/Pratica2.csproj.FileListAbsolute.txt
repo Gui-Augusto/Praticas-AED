@@ -1,0 +1,8 @@
+H:\Praticas1\Pratica2\Pratica2\bin\Debug\Pratica2.exe.config
+H:\Praticas1\Pratica2\Pratica2\bin\Debug\Pratica2.exe
+H:\Praticas1\Pratica2\Pratica2\bin\Debug\Pratica2.pdb
+H:\Praticas1\Pratica2\Pratica2\obj\Debug\Pratica2.csproj.AssemblyReference.cache
+H:\Praticas1\Pratica2\Pratica2\obj\Debug\Pratica2.csproj.SuggestedBindingRedirects.cache
+H:\Praticas1\Pratica2\Pratica2\obj\Debug\Pratica2.csproj.CoreCompileInputs.cache
+H:\Praticas1\Pratica2\Pratica2\obj\Debug\Pratica2.exe
+H:\Praticas1\Pratica2\Pratica2\obj\Debug\Pratica2.pdb
